@@ -17,3 +17,11 @@ print((var1,var2,var3,*var4) != tuple2)
 print((var1,var2,var3,*var4) > tuple2)
 print((var1,var2,var3,*var4) < tuple2)
 
+"""
+***LIST VS TUPLE***
+
+1. List is mutable. Tuple is immutable.
+2. List uses square brackets []. Tuple uses paranthases
+3. List is used for a collection of similar items that is flexible. Tuple is used for grouped data that belongs together.
+"""
+
